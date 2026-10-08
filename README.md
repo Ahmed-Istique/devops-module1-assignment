@@ -1,4 +1,4 @@
-# Module 1 Assignment: Foundations of DevOps Engineering
+# Module 1 Assignment
 
 ---
 
