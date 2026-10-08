@@ -150,9 +150,12 @@ For this demonstration, a lightweight Node.js HTTP web server was executed local
 * **Execution Command:**
   ```bash
   node server.js
-  <img width="1459" height="544" alt="local-host-running" src="https://github.com/user-attachments/assets/a47e1501-acbf-4dd4-9258-018f981471f3" />
-<img width="343" height="558" alt="Quiz-Result" src="https://github.com/user-attachments/assets/6c0efc4b-52ab-4653-91a8-65c1c8d77658" />
-<img width="787" height="307" alt="ngrok_tunnel" src="https://github.com/user-attachments/assets/758ef606-7a67-463a-be6e-a0060c0ae452" />
+<img width="1459" height="544" alt="local-host-running" src="https://github.com/user-attachments/assets/d8efa07b-1bc1-4c30-8f5e-3cd744f7cd9e" />
+<img width="787" height="307" alt="ngrok_tunnel" src="https://github.com/user-attachments/assets/bf364145-19fe-497c-9fcc-82dbb8c2cf05" />
+<img width="1455" height="550" alt="ngrok_public_access" src="https://github.com/user-attachments/assets/a447687a-3d49-44cd-ae71-642e9030c039" />
+
+
+
 
 
 
