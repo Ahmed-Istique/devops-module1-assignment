@@ -150,6 +150,10 @@ For this demonstration, a lightweight Node.js HTTP web server was executed local
 * **Execution Command:**
   ```bash
   node server.js
+  <img width="1459" height="544" alt="local-host-running" src="https://github.com/user-attachments/assets/a47e1501-acbf-4dd4-9258-018f981471f3" />
+<img width="343" height="558" alt="Quiz-Result" src="https://github.com/user-attachments/assets/6c0efc4b-52ab-4653-91a8-65c1c8d77658" />
+<img width="787" height="307" alt="ngrok_tunnel" src="https://github.com/user-attachments/assets/758ef606-7a67-463a-be6e-a0060c0ae452" />
+
 
 
 ## project structure
